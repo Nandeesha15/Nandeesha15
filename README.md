@@ -1,3 +1,5 @@
+## About ME
+I am a detail-oriented and aspiring Data Analyst with a passion for transforming data into actionable insights. Proficient in Python, SQL and Power BI, I continuously enhance my skills and apply data science techniques to solve real-world challenges through hands-on projects.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/k-r-nandeesha-778219268/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nandeeshakr1@gmail.com) 
